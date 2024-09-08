@@ -1,5 +1,5 @@
 
-# Django Signal Handling Project - AccuKnox-Django-Assignment
+# AccuKnox-Django-Assignment
 
 ## Overview
 
